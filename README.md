@@ -59,7 +59,3 @@ REMS is a simple PHP script based on Laravel that helps you to manage small or m
     Email: `user@user.com` 
     Password: `123456`
 
-
-### Screenshot
-
-<img src="https://github.com/parvez-git/real-estate/blob/master/public/demo/home.jpg">
